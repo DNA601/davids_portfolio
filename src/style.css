@@ -1,0 +1,24 @@
+body {
+    font-family: FreeMono, monospace;
+    text-align: center;
+    background-color: black;
+    color: rgb(3, 99, 183);
+}
+
+.self {
+    border: 8px solid rgb(126, 179, 179);
+    width: 250px;
+}
+
+@media only screen and (max-width: 1024px) {
+    main {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        margin-left: 2em;
+        margin-right: 2em;
+    }
+}
+
+ul {
+    background-color: rgb(126, 179, 179);
+}
