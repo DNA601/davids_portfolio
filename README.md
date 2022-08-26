@@ -28,6 +28,8 @@ Below is the link to my up to date portfolio page with React.
 
 ## App-link
 
+https://dna601.github.io/davids_portfolio/
+
 ## github
 
 https://github.com/DNA601
