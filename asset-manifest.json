@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/davids_portfolio/static/css/main.c3ca835d.css",
+    "main.js": "/davids_portfolio/static/js/main.b2408cbb.js",
+    "static/media/self.jpg": "/davids_portfolio/static/media/self.db86441bcab732e1f475.jpg",
+    "static/media/readmepic.png": "/davids_portfolio/static/media/readmepic.c0e8342b637378889cae.png",
+    "static/media/weather.png": "/davids_portfolio/static/media/weather.79744e0cb31e8b877aa4.png",
+    "static/media/Schedule.png": "/davids_portfolio/static/media/Schedule.da373b8b0a82e1668934.png",
+    "static/media/screenshot.png": "/davids_portfolio/static/media/screenshot.363d9a3539db3903eb6d.png",
+    "static/media/Page.png": "/davids_portfolio/static/media/Page.928678b087147c53e3ac.png",
+    "static/media/R.pdf": "/davids_portfolio/static/media/R.59ecd7168c523bc72c65.pdf",
+    "static/media/quiz.png": "/davids_portfolio/static/media/quiz.1846afef250a58974852.png",
+    "index.html": "/davids_portfolio/index.html",
+    "main.c3ca835d.css.map": "/davids_portfolio/static/css/main.c3ca835d.css.map",
+    "main.b2408cbb.js.map": "/davids_portfolio/static/js/main.b2408cbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3ca835d.css",
+    "static/js/main.b2408cbb.js"
+  ]
+}
